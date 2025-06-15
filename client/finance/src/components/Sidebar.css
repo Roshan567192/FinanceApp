@@ -1,0 +1,12 @@
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-link.active {
+  background-color: #495057;
+  font-weight: bold;
+}
